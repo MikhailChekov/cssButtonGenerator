@@ -1,0 +1,31 @@
+h1{
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+
+h1, *[class*='col-sm']{
+  text-align: center;
+}
+
+textarea{
+  width: 90%;
+  height: 60%;
+}
+
+*[class*='col-sm']{
+  margin-left: 5px;
+  border-radius: 20px;
+  width: 200px;
+  border: 1px solid black;
+  height: 350px;
+  /* background-color: green; */
+}
+
+.create{
+  height: 40px;
+  width: 140px;
+  margin: 50px auto;
+  background: #ccc;
+  border: 1px solid #777;
+  border-radius: 0;
+}
